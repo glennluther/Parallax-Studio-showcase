@@ -1,6 +1,3 @@
-# Parallax-Studio-showcase
-Placeholder for a private project in active development
-
 # Parallax Studio
 
 An intelligent research operating system focused on structured knowledge, evidence provenance, discovery, and long-form synthesis.
