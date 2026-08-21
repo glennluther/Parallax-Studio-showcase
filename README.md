@@ -1,5 +1,5 @@
 # Parallax-Studio-showcase
-Active development
+Placeholder for a private project in active development
 
 # Parallax Studio
 
